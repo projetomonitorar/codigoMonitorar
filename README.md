@@ -1,5 +1,5 @@
 
-![MonitorAr](https://github.com/projetomonitorar/monitorar/raw/master/img/monitorar_logo.png "MonitoAr")
+![MonitorAr](https://github.com/projetomonitorar/monitorar/raw/master/img/monitorar_logo_600px.png "MonitoAr")
 
 Projeto desenvolvido por Jéssyca Rios e Artur V. Cordeiro em parceria com a [Abecê da Educação Ambiental](https://ongabcambiental.com)
 
