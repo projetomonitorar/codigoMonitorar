@@ -352,7 +352,7 @@ void loop() {
 
 
   // Atualiza os valores anteriores com os últimos valores calculados.
-  bmeTemperaturaAnt = bmeTemperaturaAnt;
+  bmeTemperaturaAnt = bmeTemperatura;
   bmeUmidadeAnt = bmeUmidade;
   bmePressaoAnt = bmePressao ;
   bmeAltitudeAnt = bmeAltitude;
