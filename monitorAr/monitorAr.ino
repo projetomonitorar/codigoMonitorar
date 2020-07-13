@@ -176,7 +176,7 @@ void setup() {
 
   // Para referência do cálculo de altitude,
   // está sendo usado o valor da temperatura média anual em Juazeiro do Norte de 25.2°C.
-  // Observaão: o valor padrão usado na biblioteca é 15°C / 59°F.
+  // Observação: o valor padrão usado na biblioteca é 15°C / 59°F.
   bme.parameter.tempOutsideCelsius = 25.2;
   bme.parameter.tempOutsideFahrenheit = 77.36;
 
@@ -351,7 +351,7 @@ void loop() {
   Serial.println(bmeAltitudeAnt);
 
 
-  // Atualiza os valores anteriores com os últimos valores cálculados.
+  // Atualiza os valores anteriores com os últimos valores calculados.
   bmeTemperaturaAnt = bmeTemperaturaAnt;
   bmeUmidadeAnt = bmeUmidade;
   bmePressaoAnt = bmePressao ;
