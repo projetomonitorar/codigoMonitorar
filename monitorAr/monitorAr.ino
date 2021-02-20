@@ -126,7 +126,7 @@ float bmeAltitudeAnt;     // Variável para armazenar o valor anterior de altitu
 // As variáveis de valores anteriores são usadas para calcular a média das leituras no intervalo do ciclo de envio de dados.
 
 unsigned long tempo;      // Variável para armazenar a contagem de tempo.
-int intervalo = 30000;    // Definição da duração do intervalo de tempo, para o ciclo de envio de dados.
+int intervalo = 60000;    // Definição da duração do intervalo de tempo, para o ciclo de envio de dados.
 
 
 void setup() {
